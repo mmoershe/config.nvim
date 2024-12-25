@@ -14,4 +14,4 @@ git clone https://github.com/mmoershe/config.nvim ~/.config/nvim`
 - changed some indentation options  
 - deactivated the mouse 
 - turned on wrapping by default 
-- added <leader>sf in normal mode to search for files from the root directory 
+- added "*leader* + sf" in normal mode to search for files from the root directory 
