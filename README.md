@@ -5,7 +5,7 @@ It's based on [LazyVim](https://github.com/LazyVim/LazyVim), although I have mad
 
 # Installation
 ```sh
-git clone https://github.com/mmoershe/config.nvim ~/.config/nvim`
+git clone https://github.com/mmoershe/config.nvim ~/.config/nvim
 ```
 
 # Customizations / Deviations
